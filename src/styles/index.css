@@ -1,0 +1,14 @@
+@import "./Typography.css";
+@import "./Button.css";
+@import "./Form.css";
+@import "./Carousel.css";
+
+html,
+body {
+  margin: 0;
+  padding: 0;
+  text-size-adjust: 100%;
+  box-sizing: border-box;
+  scrollbar-width: thin;
+  font-family: Poppins, sans-serif !important;
+}

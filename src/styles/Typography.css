@@ -1,0 +1,26 @@
+:where(.css-dev-only-do-not-override-fqxx69)[class^="ant-typography"],
+:where(.css-dev-only-do-not-override-fqxx69)[class*=" ant-typography"] {
+  font-family: Poppins, sans-serif !important;
+}
+
+.ant-typography-primary {
+  color: #ef7c3b;
+}
+.ant-typography-white {
+  color: #fff
+}
+.ant-typography-light-grey {
+  color: #B0B0B0
+}
+.ant-typography-grey {
+  color: #999999
+}
+.ant-typography-dark-grey {
+  color: #8f8f8f
+}
+.ant-typography-red {
+  color: #f04343
+}
+.ant-typography-green {
+  color: #54eb6b
+}

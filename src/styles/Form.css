@@ -1,0 +1,5 @@
+.custom-error-message .ant-form-item-explain-error {
+    color: red !important;
+    font-size: 14px;
+    text-align: right; /* Moves error message to right */
+  }

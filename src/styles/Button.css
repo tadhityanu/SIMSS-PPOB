@@ -1,0 +1,35 @@
+.ant-btn-default {
+  color: #f04343;
+  border: 1px solid #f04343;
+}
+
+.ant-btn-primary {
+  background: #f04343 !important;
+  color: #fff !important;
+  border: 1px solid #f04343;
+}
+
+.ant-btn-outline {
+  background: #fff !important;
+  color: #f04343 !important;
+  border: 1px solid #f04343;
+}
+
+.ant-btn-borderless-red {
+  background: transparent !important;
+  color: #f04343 !important;
+  border: 1px solid transparent;
+  font-weight: 500;
+}
+
+.ant-btn-disable {
+  background-color: #B0B0B0 !important;
+  color: white !important;
+  font-weight: 600;
+  border-color: #D0D5DD !important;
+  cursor: not-allowed;
+}
+
+.ant-btn-text-red:hover {
+  background-color: #ffe8e8 !important;
+}
