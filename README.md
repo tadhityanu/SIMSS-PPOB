@@ -11,4 +11,3 @@ Tech Stack
 
 Kekurangan:
 - Website masih belum diterapkan responsiveness
-- token expired belum di terapkan
