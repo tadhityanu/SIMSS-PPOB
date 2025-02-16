@@ -1,7 +1,7 @@
 import { Suspense, useEffect, useState } from 'react'
 import { Navigate, Route, Routes, useLocation } from 'react-router'
 import PropTypes from 'prop-types'
-import PUBLIC_ROUTER from './router/PUBLIC_ROUTER.JSX'
+import PUBLIC_ROUTER from './router/PUBLIC_ROUTER'
 import { useDispatch, useSelector } from 'react-redux'
 import { checkAuth } from './redux/action/Auth/authenticationAction'
 import PRIVATE_ROUTER from './router/PRIVATE_ROUTER'
